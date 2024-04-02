@@ -1,6 +1,6 @@
 # Input user data for website
-websitename = input("Website name: ")
-title = input("Website title: ")
+websitename = input("Website name:goldentelecom.com")
+title = input("Website title:GOLDEN TELECOME")
 keywords = input("Website keywords: ")
 metaDescription = input("Website meta description :")
 h1 = input("H1 text: ")
